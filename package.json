@@ -37,18 +37,11 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "@shadcn/ui": "^0.0.4",
     "@testing-library/jest-dom": "^6.8.0",
     "@testing-library/react": "^14.3.1",
     "@types/node": "^20.19.27",
     "@types/react": "^18.3.24",
-=======
-    "@testing-library/jest-dom": "^6.9.1",
-    "@testing-library/react": "^14.3.1",
-    "@types/node": "^20.19.27",
-    "@types/react": "^18.3.27",
->>>>>>> 6370129ffa317c8f3249b6cbb8e024d84f7e4481
     "@types/react-dom": "^18.3.7",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
@@ -65,13 +58,8 @@
     "postcss": "^8.5.6",
     "prettier": "3.1.1",
     "tailwindcss": "^3.4.19",
-<<<<<<< HEAD
     "typescript": "^5.9.2",
     "vite": "^5.4.20",
-=======
-    "typescript": "^5.9.3",
-    "vite": "^5.4.21",
->>>>>>> 6370129ffa317c8f3249b6cbb8e024d84f7e4481
     "vite-tsconfig-paths": "^4.3.2",
     "vitest": "^1.6.1"
   },
