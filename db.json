@@ -1,0 +1,40 @@
+{
+  "complaints": [
+    {
+      "id": "1",
+      "title": "Internet not working",
+      "description": "No internet connectivity since morning",
+      "category": "IT",
+      "priority": "high",
+      "status": "Resolved",
+      "createdAt": "2025-09-10"
+    },
+    {
+      "id": "2",
+      "title": "Classroom AC not working",
+      "description": "AC is broken in Room 203",
+      "category": "Maintenance",
+      "priority": "medium",
+      "status": "Resolved",
+      "createdAt": "2025-09-09"
+    },
+    {
+      "id": "7794",
+      "title": "Test COmplain",
+      "category": "technical",
+      "priority": "high",
+      "description": "deal the issue",
+      "status": "Resolved",
+      "createdAt": "2025-12-24"
+    },
+    {
+      "id": "adba",
+      "title": "Test",
+      "category": "technical",
+      "priority": "critical",
+      "description": "ksadjasd",
+      "status": "Resolved",
+      "createdAt": "2025-12-25"
+    }
+  ]
+}
